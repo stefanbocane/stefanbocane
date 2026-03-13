@@ -8,7 +8,7 @@ I’m a dual major in **Computer Science & Engineering** and **Electrical & Comp
 
 ### Tech Stack
 - **Hardware:** Verilog, CMOS Logic, RISC-V, Circuit Analysis, Arduino/RPi.
-- **Software:** Python, C/C++, React Native (Mint It!), Supabase.
+- **Software:** Python, C/C++, React, React Native (Mint It!), Typescript, Javascript, Supabase.
 
 ### Beyond the Code
 When I’m not delving into my 1AM project idea, you’ll find me on the golf course, playing pickleball, or perfecting a new recipe on the Blackstone.
