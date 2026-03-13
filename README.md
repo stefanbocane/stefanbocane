@@ -16,7 +16,7 @@ When I’m not debugging FSMs or writing Verilog, you’ll find me on the golf c
 ---
 
 ### 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) | [Portfolio](https://stefanbocanegra.com)
+[LinkedIn](https://www.linkedin.com/in/stefanbocanegra) | [Portfolio](https://stefanbocanegra.com)
 
 ### 📊 GitHub Stats:
 ![Stefan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefanbocane&show_icons=true&theme=radical)
