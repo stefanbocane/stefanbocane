@@ -1,21 +1,21 @@
 # Hi, I'm Stefan 
 
-### 🎓 Engineering at Santa Clara University 
+### Engineering at Santa Clara University 
 I’m a dual major in **Computer Science & Engineering** and **Electrical & Computer Engineering** (Class of '27). I live in the space where low-level hardware meets high-level software.
 
-### 🛠️ What I’m Building RIGHT NOW
+### What I’m Building RIGHT NOW
 - **Storybox:** A Raspberry Pi 5 project using RFID to bring physical-to-digital audio experiences to life.
 
-### 💻 Tech Stack
+### Tech Stack
 - **Hardware:** Verilog, CMOS Logic, RISC-V, Circuit Analysis, Arduino/RPi.
 - **Software:** Python, C/C++, React Native (Mint It!), Supabase.
 
-### ⚡ Beyond the Code
+### Beyond the Code
 When I’m not delving into my 1AM project idea, you’ll find me on the golf course, playing pickleball, or perfecting a new recipe on the Blackstone.
 
 ---
 
-### 🌐 Socials:
+### Socials:
 [LinkedIn](https://www.linkedin.com/in/stefanbocanegra) | [Portfolio](https://stefanbocanegra.com)
 
 
