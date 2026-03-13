@@ -1,4 +1,4 @@
-# Hi, I'm Stefan 👋
+# Hi, I'm Stefan 
 
 ### 🎓 Engineering at Santa Clara University 
 I’m a dual major in **Computer Science & Engineering** and **Electrical & Computer Engineering** (Class of '27). I live in the space where low-level hardware meets high-level software.
@@ -20,7 +20,4 @@ When I’m not debugging FSMs or writing Verilog, you’ll find me on the golf c
 
 ### 📊 GitHub Stats:
 ![Stefan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefanbocane&show_icons=true&theme=radical)
----
-[![](https://visitcount.itsvg.in/api?id=stefanbocane&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
