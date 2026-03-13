@@ -11,7 +11,7 @@ I’m a dual major in **Computer Science & Engineering** and **Electrical & Comp
 - **Software:** Python, C/C++, React Native (Mint It!), Supabase.
 
 ### ⚡ Beyond the Code
-When I’m not debugging FSMs or writing Verilog, you’ll find me on the golf course, playing pickleball, or perfecting a fried rice recipe on the Blackstone.
+When I’m not delving into my 1AM project idea, you’ll find me on the golf course, playing pickleball, or perfecting a new recipe on the Blackstone.
 
 ---
 
